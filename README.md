@@ -1,1 +1,1 @@
-# the-hidden-wiki
+# The Hidden Wiki
